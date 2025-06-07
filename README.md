@@ -20,13 +20,14 @@ A data analysis project using **MySQL** and **Excel** based on the Global Supers
 
 ## 📂 Project Structure
 
+<pre>```text
 superstore-sql-analysis/
 ├── data/
 │ ├── raw/ # Original CSVs (Orders, Customers, Products)
 │ └── processed/ # Query results exported as CSV files
 ├── queries/ # SQL files containing analysis queries
 ├── README.md 
-
+```</pre>
 
 ---
 
